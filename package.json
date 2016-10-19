@@ -1,0 +1,25 @@
+{
+  "name": "tinyserver",
+  "version": "0.0.1",
+  "description": "A tiny server meant to simulate a real backend while you develop your frontend",
+  "main": "tinyserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": { 
+    "type": "git",
+    "url": "git+https://github.com/kenbellows/node-tinyserver.git"
+ 	},
+  "keywords": [
+    "server",
+    "http",
+		"development",
+		"mock"
+  ],
+  "author": "Ken Bellows",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "mime": "^1.3.4"
+  }
+}
