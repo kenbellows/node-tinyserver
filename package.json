@@ -1,6 +1,6 @@
 {
   "name": "tinyserver",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A tiny server meant to simulate a real backend while you develop your frontend",
   "main": "tinyserver.js",
   "scripts": {
